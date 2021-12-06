@@ -51,6 +51,11 @@
 
 ## About this course
 
+**1. Countable or Uncountable**
+**2. Talking about time**
+**3. Descriptions**
+**4. Taking about abilities and expectations**
+
 # 3. Countable or uncountable?
 
 ## Many or much?
@@ -79,6 +84,35 @@ To me the difference between "most of" and "some of" is:
 "Some of" means “an amount of” or “a number of”, when the amount or number is not given.
 
 ## Proportions and groups
+
+Vocabulary for this class
+
+None of
+All of
+Most of
+Some of
+A few of
+Half of
+
+![quantifiers-porcentage.png](https://static.platzi.com/media/user_upload/quantifiers-porcentage-8ecb2434-c320-4536-947b-355545b1b252.jpg)
+
+
+For example:
+
+Most of the people enjoyed their trip.
+
+We’re saying that the 75-80% of that group of people enjoyed the trip.
+
+Most of the youngers in my city are billingual, that’s the reason why we have many call center in English here.
+
+  > Proportion or groups
+  None of - 0%
+  A few of
+  Some of
+  Half of - 50%
+  A lot of
+  Most of
+  All of - 100%
 
 ## All or nothing
 
