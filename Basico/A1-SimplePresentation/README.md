@@ -35,9 +35,20 @@
 
 ## What will you learn about present simple and common vocabulary
 
+**You will learn**
 
+- How to introduce yourself and others.
+- The use of verb To Be and other verbs.
+- How to use "simple present tense".
+- How to make simple questions.
+- The use of some prepositions.
+- Some irregular nouns.
+
+Introduce yourself, to share your personal information with others. use of the verb “to be” and other verbs when using the present simple how to ask simple questions in English and how to use basic vocabulary prepositions, how to talk especially about irregular noun places, some differences between regular and irregular nouns. I am very excited to continue learning the English language.
 
 ## Introducing Myself
+
+
 
 ## Roleplay: Introducing Others
 
