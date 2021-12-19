@@ -249,22 +249,217 @@ How can I do this?
 
 ## Have vs. has
 
+Do you have a good job ?
+you dont have a good job
+
+Does she have two brothers ?
+she doesnt have two broters
+
+do they have a cat ?
+they dont have a cat
+
+Does he have a new cell phone?
+
+he doesnt have a new cellphone
+
+![gd.PNG](https://static.platzi.com/media/user_upload/gd-67e81f07-8411-4429-8afc-f12958d5d807.jpg)
+
+![HAS-vs-HAVE-1.jpg](https://static.platzi.com/media/user_upload/HAS-vs-HAVE-1-8cd88aae-d2db-40d1-8c24-e3b1decfcad6.jpg)
+
 ## Writing exercise: Simple Present
+
+ practice!
+
+- My brother has 2 guitttars
+- i don’t live In Colmibia
+- Do you have a car or a dog?
+- Excuse me, where is the bank?
+- They don’t have much time free
+- Suzzie doesn’t drink milk with her meals
+- We cook sushi on mondays
+- Does Charles speak French
+- Tom and Matt work in a big company
+- He has a new computer
+
+[![img](https://www.google.com/s2/favicons?domain=https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_32dp.png)Worksheet Fill the gaps_ Simple Present.pdf - Google Drive](https://drive.google.com/file/d/1MmDIpYfHXki_82SWY8QTEnB-EkT76U7d/view?usp=sharing)
+
+[Answer key Fill the gaps_ Simple Present.pdf - Google Drive](https://drive.google.com/file/d/1ucaWlMB3eamVTPNRmEPodNWBsFg1Mh_R/view?usp=sharing)
 
 ## Irregular plural nouns
 
+They are some plural words that are irregular, so, they dont have a “S” at the final of the verb, like the most. In some cases, just adds another letter besides a “S”. Like:
+Hero -> Hero**e**s
+In other cases, the letters changes completly, and sound diferrent, like:
+Foot -> Feet
+Tooth -> Teeth
+Mouse -> Mice
+
+Fish is an special case, or i would say, these words that describes a determined number of animals of the same kind, the plural word doesnt change. Example:
+1 fish -> 10 fish. ( If they are the same Species)
+
+If they are different, you could say:
+“I have ten differente types of fishes on my Aquarium.”
+
+## Irregular plural nouns
+
+These are nouns that make their plural form in an irregular way. That means that you don’t use the letter “S” to form the plural, but instead it’s actually a different word or a different spelling.
+
+Man - Men
+
+Woman - Women
+
+Life - Lives
+
+Child - Children
+
+Tooth - Teeth
+
+Foot - Feet
+
+Sheep - Sheep
+
+Mouse - Mice
+
+Goose - Geese
+
+Ox - Oxen
+
+Fish - Fish
+
+Deer - Deer
+
+Cactus - Cacti
+
+[site](https://www.grammarly.com/blog/irregular-plural-nouns/)
+
+[Lectura_ Irregular plural nouns.pdf - Google Drive](https://drive.google.com/file/d/1Sj_J7XMAN55gze9IhdOSAU989RuJQFy8/view?usp=sharing)
+
 ## Verbs in imperative form
+
+We use this structure when we want to give instructions, when we want to give orders or adive. For instance, instructions.
+
+- Please go to the resource section. -Instruction
+- Don’t do that. -Order
+- Go in the morning. -Recomendation
+
+We don’t mention the pronouns (I, You, He, She, It). We only say the action (Go, Do, Practice)
 
 ## And vs. but
 
+AND
+
+- I like Resident Evil and Silent Hill games.
+- I have a laptop and a monitor.
+- I love to develop projects and play video games.
+- She is going to buy a bag and a dress
+- He hates onion and pineapple
+
+BUT
+
+- I don’t have a cat but I have a dog
+- She doesn’t have a new dress but she has a new bag
+- I want to go to Argentina but I don’t have enough money
+- They studied all night but they failed the test
+- He was hungry but he didn’t have enough money
+
+Here are my answers:
+AND:
+
+1. I love cats and dogs.
+2. I like chicken and meat hamburguers.
+3. I have a son and a daughter.
+4. Everyday I study at Platzi and also my master degree.
+5. I hate cooking and washing dishes.
+
+BUT:
+
+1. I like birds but I prefer cats.
+2. I have some flowers but I wish more.
+3. I dislike Facebook but I like Twitter.
+4. I meditate everyday but I’d like to do yoga too.
+5. I read news on Twitter but I miss to read on the paper.gg
+
 ## A vs. An
 
-# Consolidation
+We use A and An when we want to talk about something general or that it’s not particular or very specific.
+
+An: When the next word starts with a vowel.
+
+A: When the next word starts with a consonant sound.
+
+It’s the sound and not the letter, because we have some exceptions
+
+- We say a University, because the “u” sounds like “your”
+- We say an Hour, because the “h” is silent.
+
+Practice:
+
+- There is **a** black marker on the table.
+- She’s reading **an** old book.
+- She is **a** pilot.
+- See you in **an** hour.
+- I don’t have time for **a** movie tonight.
+- Rachel works at **a** hospital.
+
+[Lectura A vs An.pdf - Google Drive](https://drive.google.com/file/d/1tmvuIW7K_hohXqXMSfmXzYe9eaim3NMm/view?usp=sharing)
+
+[Answer key Lectura A vs An.pdf - Google Drive](https://drive.google.com/file/d/1TNbRXP8GM-TfZp-cFPqAg2ufmzTGdxk6/view?usp=sharing)
+
+# 5. Consolidation
 
 ## Roleplay: I like / You dont like
 
+- Who doesn’t like hot dogs?
+
+Jhon doesn’t like hot dogs.
+
+- Who doesn’t drink soda?
+
+Jhon doesn’t drink soda.
+
+- Who doesn’t drink coffee?
+
+Ana doesn’t drink coffee.
+
+---
+
+Who doesn’t like hot dogs?
+Jhon doesn’t like hot dogs
+
+Who doesn’t drink soda?
+Jhon doesn’t drink soda
+
+Who doesn’t drink coffee?
+Anna doesn’t drink coffee
+
 ## Grammar consolidation exercise
 
-# 5. Conclusion
+Practice:
+
+1. I am a doctor
+   I am not a doctor
+   Am I a doctor?
+2. You like to dance
+   You don’t like to dance
+   Do you like to dance?
+3. He is at home
+   He isn’t at home
+   Is he at home?
+4. She loves to play video games
+   She doesn’t love to play video games
+   Does she love to play video games?
+5. It is my dog
+   It isn’t my dog
+   Is it my dog?
+6. We watch a movie every Sunday
+   We don’t watch a movie every Sunday
+   Do we watch a movie every Sunday?
+7. They are best friends
+   They aren’t best friends
+   Are they best friends?
+
+[Grammar consolidation.pdf - Google Drive](https://drive.google.com/file/d/1pTYburB-f36ZbE3_F4Dj0Zmj6P_f33yM/view?usp=sharing)
+
+# 6. Conclusion
 
 ## Congratulations!
