@@ -204,5 +204,25 @@ Sandra is very happy, because Verónica has been at Platzi for 2 months and also
 
 [worksheet-class-13-reviewing-profiles.pdf](https://static.platzi.com/media/public/uploads/worksheet-class-13-reviewing-profiles_5ba2d378-1948-44de-93c8-15d0c70303ce.pdf)
 
+## Interviewing candidates
 
+> Who is the right candidate for the position?
+>
+> - The right candidate for the position is Jhon, because it meets the requirements for the position.
 
+> Who is the right candidate for the position?
+>
+> - The right candidate for the position is Jhon, because he is more sure of himself, and speak 3 lenguages
+
+[class-14-int1-taller1-trabajo.pdf](https://static.platzi.com/media/public/uploads/class-14-int1-taller1-trabajo_092b4374-5082-4c81-a343-9488dd4dfabf.pdf)
+
+[class-14-int2-taller1-trabajo.pdf](https://static.platzi.com/media/public/uploads/class-14-int2-taller1-trabajo_9f5a4dcc-8ba4-4a4d-9244-c21b83207bb6.pdf)
+
+## Selecting a candidate
+
+> Is Jhon excited?
+>
+> - Yes, he is very excited, congratulations John! 🤓🎉
+> - Is Jhon excited? Yes, He is excited, and happy for get a new job.
+
+[script-class-15-selecting-a-candidate.pdf](https://static.platzi.com/media/public/uploads/script-class-15-selecting-a-candidate_62404d06-ede1-41d9-a880-40bb94a726db.pdf)
