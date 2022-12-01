@@ -343,3 +343,295 @@ Comparte tus respuestas en la sección de comentarios, para aprender en comunida
 
 
 
+## What are doing here?
+
+- He is playing soccer, right now (Él está jugando fútbol, ahora mismo)
+- She is resting, right now (Ella está descansando, ahora mismo)
+
+## Role-paly / juego de rol
+
+En el role-play anteriormente presentado, debemos identificar que están haciendo los personajes, para luego poder completar las siguientes oraciones:
+
+- Carlos __ _________ his classes (Carlos ____ __________ sus clases)
+- Juan __ _______ his toys away (Juan ____ _________ sus juguetes)
+- Julián __ _______ with his toys (Julián ____ _______ con sus juguetes)
+- Jane __ ________ her lessons (Jane ____ _________ sus clases o lecciones)
+- They ___ _________ their classes preparation (Ellos _____ ___________ la preparación de sus clases)
+- Carlos __ _____ to the office now (Carlos __ a la oficina ahora)
+- Jane __ ________ to have lunch now (Jane ____ __________ a almorzar)
+
+## It’s your turn now / Ahora te toca a ti
+
+Comparte con la comunidad, en la sección de comentarios, What you are doing in this moment? (give as many details as possible) (¿Qué estás haciendo en este momento? Escribe todos los detalles posibles)
+
+> - Well, at this precise moment, I´m studying the English Basic Course about the description of my house at Platzi with my laptop. And simultaneously, in my workbook of this course, I´m writing my notes belonging to this class, for example, new words and new phrases learned, etc., inclusive this small text.
+
+
+
+> Hi, I´m studying my english lessons at Platzi,
+> I´m taking many notes about this curse because it will help to me to understand better, but at the same time I´m drinkig a hot coffee.
+> I´m connected to the internet,
+> I´m looking at the files of this class.
+> I´m writing my contributions to shere with you.
+
+[class-7-what-are-we-doing-here-docx.pdf](https://static.platzi.com/media/public/uploads/class-7-what-are-we-doing-here-docx_72633761-8715-4f13-9f7a-e1776494d7ad.pdf)
+
+## Count on me
+
+## Utensils / Utensilios
+
+Los utensilios que necesitaremos para hacer un arroz con pollo son:
+
+- Cupboard (Armario)
+- Cup (taza)
+- Cutlery (Lugar donde se guardan los cuchillos)
+- Knife (Cuchillo)
+- Cutting board (Tabla de cortar)
+- Pot (Olla)
+- Lid (Tapa)
+
+## Ingredients / Ingredientes
+
+Con el fin practicar las cosas contables e incontables. Presentaremos los ingredientes por medio de preguntas.
+
+- How **many** chiken breasts do we need? (¿Cuántas pechugas de pollo necesitamos?)
+- How **many** chiken stock cubes do we need? (¿Cuántas pastillas de caldo de pollo necesitamos?)
+- How **much** water do we need? (¿Cuánta agua necesitamos?)
+- How **much** rice do we need? (¿Cuánto arroz necesitamos?)
+- How **many** carrots do we need? (¿Cuántas zanahorias necesitamos?)
+- How **many** onions do we need? (¿Cuántas cebollas necesitamos?)
+- How **much** turmeric do we need? (¿Cuánta cúrcuma necesitamos?)
+- How **many** cloves of garlic do we need? (¿Cuántos dientes de ajo necesitamos?)
+
+## It’s your turn now / Ahora te toca a ti
+
+Comparte con la comunidad el nombre de tu receta favorita. Además, explícanos que utensilios e ingredientes necesarios para realizarla.
+
+## Conclusion / Conclusión
+
+A manera de conclusión podemos decir que **debemos referirnos de manera especial a los elementos contables e incontables**. Tal como se muestra en la siguiente tabla.
+
+| Contables | Incontables |
+| --------- | ----------- |
+| Many      | Much        |
+
+> **Rice pudding recipe**
+> Ingredients:
+>
+> - A quarter pound of rice
+> - A liter of milk
+> - Vanilla essence
+> - A piece of panela
+> - A liter of water
+>
+> Utensils:
+>
+> - Pot
+> - Strainer
+> - Big spoon
+> - Stove
+> - Small spoon
+
+[class-8-count-on-me-docx.pdf](https://static.platzi.com/media/public/uploads/class-8-count-on-me-docx_5a7654dd-df1b-45e8-9ab7-0f54fe75d9c9.pdf)
+
+## We have come this far
+
+## How often/How long/How far
+
+- How long does it take you to clean your place? (¿Cuánto tiempo te toma limpiar tu casa?)
+- How often do you do the chores? (¿Con qué frecuencia haces tareas domésticas?)
+- How far is your work from home? (¿A qué distancia te queda el trabajo de la casa?)
+
+## It’s your turn now / Ahora te toca a ti
+
+Comparte con la comunidad en la sección de comentarios tu respuesta a las preguntas anteriormente vistas como ejemplos.
+
+![Ganchos de ropa uno junto al otro en una cuerda para extender ropa](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/chores.jpg)
+
+> How long does it take you to clean up your house?
+> It takes me 2 hours to clean my house
+> How often do you do it?
+> I clean my house everyday
+> How far is your house from work?
+> I work in my house
+
+[class-9-we-have-come-this-far-docx.pdf](https://static.platzi.com/media/public/uploads/class-9-we-have-come-this-far-docx_dafe93fd-be0e-4fca-a23d-264321eb255f.pdf)
+
+## Things in my house
+
+**What is this and that? (¿Qué es esto y eso?), What are these and those things? (¿Qué son estas y aquellas cosas?) and Are they on, in, next to something? (¿Están sobre, dentro o al lado de algo?).** Veamos algunos ejemplos.
+
+- Those paintings are behind Carlos (Esos cuadros están detrás de Carlos)
+- That lamp is next to the couch (Esa lámpara está al lado del sofá)
+- This cat cushion is on the couch and next to Carlos. (Este cojín de gato está sobre el sofá y al lado de Carlos)
+- That is a pineapple and is on the table (Eso es una piña y está sobre la mesa)
+- Those cups are on the table (Esas tazas están sobre la mesa)
+
+## It’s your turn now / Ahora te toca a ti
+
+Comparte con la comunidad en la sección de comentarios lo siguiente:
+
+- Mira la clase de nuevo y escribe 3 cosas que están en la casa de Carlos, usando preposiciones de lugares
+- Mira alrededor de tu casa y escribe 3 cosas, usando preposiciones de lugares.
+
+> > **Carlos’s house:**
+>
+> - The cups are next to the pineapple.
+> - The couch is between the wall and the table.
+> - The paintings are on the wall.
+>
+> > **My house:**
+>
+> - My computer is next to my bedroom
+> - My desk is behind the couch.
+> - The Tv is in front of the closet.
+
+[class-10-a-house-tour-docx.pdf](https://static.platzi.com/media/public/uploads/class-10-a-house-tour-docx_f0c3b840-19f4-4c57-afe9-e900af9b7202.pdf)
+
+## The Place of Belonging
+
+En esta clase aprenderemos acerca de los posesivos, los cuales **nos ayudarán a identificar las dueñas o dueños de las cosas.** Para ello intentemos rellenar las siguientes oraciones luego de oír él role-play.
+
+- Whose stuff is this? (¿De quién son estas cosas?)
+- It’s ____*’* board game (Es el juego de mesa de ___ _____)
+- It’s ___*’* dress (Es el vestido de ____)
+- They are _____*’* shoes (son los zapatos de ______)
+- They are ___*’* towels (Son las toallas de ____)
+
+## It’s your turn now / Ahora te toca a ti
+
+Realiza una lista de cinco cosas que encuentres en tu casa, cuéntanos de quien son y compártelo en la sección de comentarios. Veamos algunos ejemplos de como completar la actividad.
+
+- This is my wife’s cell phone (Este celular es de mi esposa)
+- These are my children’s toys (Estos juguetes son de mis hij@s)
+- That is my brother’s car (Ese carro es de mi hermano)
+- This is Andres’s book (Este es el libro es de Andrés)
+
+> - Whose computer is this?
+>   Ans: This is my computer
+> - Whose glasses are these?
+>   Ans: It’s my mom’s glasses
+> - Whose tennis are those?
+>   Ans: They are my aunt’s tennis
+> - Whose book is that?
+>   Ans: That book is mine
+> - Whose cat is that?
+>   Ans: I… don’t know, maybe it’s the neighbour’s cat.
+>
+> whose apple is this?
+> this is mom’s apple
+>
+> whose knife is that?
+> that is my sister’s knife
+>
+> whose laptop is this?
+> this is my laptop
+>
+> whose boots are these?
+> these boots are ours
+>
+> whose gun is that ?
+> that is police’s gun
+
+[class-11-the-place-of-belonging-docx.pdf](https://static.platzi.com/media/public/uploads/class-11-the-place-of-belonging-docx_906f6c06-f928-479c-998d-d30efc77424f.pdf)
+
+## Home is where the heart is
+
+## Interactive quiz / Cuestionario interactivo
+
+Luego de escuchar el role-play, trata de responder las siguientes preguntas basándote en las imágenes que verás a continuación.
+
+- My dream open living room has… (La sala de estar abierta de mis sueños tiene…)
+  ![Livingroom1](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Livingroom1.jpg)
+
+**a.** A great view and a pool (Una gran vista y una piscina)
+**b.** Small, dark, and has a big door (Pequeña, de color negro y con una gran puerta)
+**c.** Vintage, cramped, and dark(Antigua, estrecha y de color de negro)
+
+- My dream living room is… (La sala de estar de mis sueños es…)
+  ![livingroom2](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/livingroom2.jpg){height="" width=""}
+
+  **a.** Humble, middle-sized, and mostly wooden (Humilde, de tamaño medio y mayormente de madera)
+  **b.** Luxurious, with a good lighting and mostly metalic (Lujosa, con buena iluminación y mayormente metálica)
+  **c.** Old-fashioned, small, and cramped (A la antigua, pequeña y estrecha)
+
+- My dream study looks… (El estudio de mis sueños luce…)
+  ![study1](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/study1.jpg)
+
+**a.** Traditional, huge, and yellow (Tradicional, grande y amarillo)
+**b.** vintage, humble, and beige (Antiguo, humilde y de color beige)
+**c.** Classic, roomy, and green (Clasico, amplio y verde)
+
+## It’s your turn now / Ahora es tu turno
+
+Comparte en la sección de comentarios con la comunidad **la descripción de la casa de tus sueños usando “has”, “looks”, and “is”, además no olvides utilizar 3 adjetivos para describir cada cuarto.**
+
+**My dream house**
+
+> My dream house looks elegant, large and mostly black and gray. It has good lighting, large windows and great views. Also it has a lot of trees around the house.
+
+> - The bedroom is modern, with some lamps and plants.
+> - The living room is traditional, large and black.
+> - The kitchen is better than other spaces because it is luxurious, extra large and white. It has elegant wooden furniture, tables, chais and closets.
+
+> 
+> My dream house:
+>
+> - Looks luxurious, small, withe and the most important near to all
+> - My dream bathroom looks modern, comfortable, and metallic
+> - My dream kitchen is medium-size, modern and gray
+> - My dream bedroom is modern, cozy and white
+> - My dream living room looks cramped, modern and white
+
+[class-12-home-is-where-the-heart-is-docx.pdf](https://static.platzi.com/media/public/uploads/class-12-home-is-where-the-heart-is-docx_94105b54-ee36-4951-8d52-8979201dcef2.pdf)
+
+## Do what you want in your dream house
+
+Sigamos aprendiendo acerca de conectores que nos ayuden a expresar intenciones futuras. Además palabras que nos permitan **enlazar (sustantivos o nouns, que nos permiten referirnos a cosas) y (adjetivos o adjetives, que nos permiten comunicar las características de los sustantivos o nouns)**
+
+## Role-play / Juego de rol
+
+Luego de escuchar el juego de rol de la clase, intenta rellenar los espacios en blanco de las siguientes oraciones, recuerda que estamos practicando conectores para expresar intenciones futuras.
+
+- Carlos _____ __ play tennis and basketball in the club (Carlos ______ jugar tennis y baloncesto en el club)
+- Carlos _____ __ spend many nights on his terrace watch the stars (Carlos ______ invertir varias noches en su terraza viendo las estrellas)
+- He _____ __ have lots of dinner parties in his apartment (El ______ tener muchas cenas en su apartamento)
+
+## It’s your turn now / Ahora es te toca a ti
+
+Comparte con la comunidad de platzinautas en la sección de comentarios seis cosas que te gustaría hacer en la casa de tus sueños. Recuerda usar el conector “and”.
+
+- I want to have my own room or studio, or a least, having my own room where I can decorate it with the things I like
+- I want to make it look vintage and modern at the same time
+- AND I want to cook recipes that I found interesting for inviting my family or friends to eat with me.
+- I want to share (at some point) my house with someone who is honest loyal to me.
+- I also want to make it feel like my own personal place, where I have the time and space to cry or laugh without being judge.
+- AND I want to do more things in the house, like plant some fllowers
+
+> Homework:
+>
+> I love my house, it is how I had imagined it.
+> I want to watch the World Cup´s games with mi friends and family, it will be awesome.
+> I want to cook a big dinner for my parents´ birthday and my girlfriend´s birthday.
+> Also I want to play ping pong and do exercise with my siblings.
+> I want to take a large bath in my tub and listen classic music.
+> In the dinner room´s walls I want to put many sports pictures, like: soccer. tennis, basketball and volleyball
+
+![2022-06-16 16_42_00-.png](https://static.platzi.com/media/user_upload/2022-06-16%2016_42_00--135a454f-36c5-4024-aa55-63579b207e2a.jpg)
+
+[class-13-do-what-you-want-in-your-dream-house-docx.pdf](https://static.platzi.com/media/public/uploads/class-13-do-what-you-want-in-your-dream-house-docx_9a9df406-48f6-4245-98b0-79be15409ef5.pdf)
+
+## Back Home
+
+- Past simple negative form (Pasado simple en forma negativa)
+- Past simple affirmative form with regular and irregular verbs (Pasado simple en forma afirmativa con verbos regulares e irregulares)
+- Using Like, hate, and love + verb + “ing” (Usando me gusta, odio, y amo + verbo + ing)
+- Using “Was” / “Were” and “Wasn’t” / “Weren’t” (Usando “era” / “eran” y “no era” / “no eran”)
+- Using determiners “this / that”, “these / those” (Usando determinantes “esto” / “eso”, “estos” / “esos”)
+- How to use “How often”, “How long”, and “How far” (Como usar “Qué tan frecuente”, “Cuanto tiempo” y “Qué tan lejos”)
+- Using the present continuous to talk about actions at the time of speaking (Usando el presente continuo para hablar acerca de acciones en el momento de hablar)
+- Using plural possessives, with " 's " (Usando posesivos plurales con " 's ")
+- How to use linking verbs such as “be”, “look”, and “have” (Como usar los verbos conectores tales como “ser”, “luce”, y “tiene”)
+- How to use “and” to connect actions (Como usar “y” para conectar acciones)
+
+Recuerda tomar el examen de certificación y dejar una reseña acerca del curso para nunca parar de aprender.
