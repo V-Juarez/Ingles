@@ -15,26 +15,41 @@ Are 3 modules:
 Para comenzar, debemos identificar que tipo de casas existen, con el fin de seleccionar cuál fue la casa en la que crecimos.
 
 - House in the city (Casa en la ciudad)
-  ![imagen de Casa en la ciudad](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/House%20in%20the%20city.jpg)
+
+![imagen de Casa en la ciudad](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/House%20in%20the%20city.jpg)
+
 - Townhouses (Casas adosadas)
-  ![Imagen de asas adosadas](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Town_houses.jpg)
+
+![Imagen de asas adosadas](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Town_houses.jpg)
+
 - Aparment or flat (Apartamento o piso)
-  ![Imagen de apartamento o piso](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Aparment_or_Flat.jpg)
+
+![Imagen de apartamento o piso](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Aparment_or_Flat.jpg)
+
 - Condominium (Condominio)
-  ![Imagen de condominio](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Condominium.jpg)
+
+![Imagen de condominio](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Condominium.jpg)
+
 - Countryside house (Casa de campo)
-  ![Imagen de casa de campo](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Countryside_house.jpg)
+
+![Imagen de casa de campo](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Countryside_house.jpg)
+
 - Cottage (Cabaña)
-  ![Imagen de Cabaña](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Cottage.jpg)
+
+![Imagen de Cabaña](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Cottage.jpg)
+
 - Shack or a cabin (Choza o cabaña)
-  ![Imagen de Choza o cabaña](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Shack_or_cabin.jpg)
+
+![Imagen de Choza o cabaña](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Shack_or_cabin.jpg)
 
 ## parts of the house / partes de la casa
 
 Ya que conocimos los tipos de casa que existen, el siguiente paso es identificar los espacios que tenía la casa en la que crecimos.
 
 - Bedroom (Cuarto)
-  ![Imagen de una habitación](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Bedroom%281%29.jpg)
+
+![Imagen de una habitación](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Bedroom%281%29.jpg)
+
 - Fireplace (Chimenea)
   ![imagen de una chimenea](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Firespace.jpg)
 - Bathroom (Baño)
