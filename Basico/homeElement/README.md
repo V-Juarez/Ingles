@@ -51,21 +51,36 @@ Ya que conocimos los tipos de casa que existen, el siguiente paso es identificar
 ![Imagen de una habitación](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Bedroom%281%29.jpg)
 
 - Fireplace (Chimenea)
-  ![imagen de una chimenea](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Firespace.jpg)
+
+![imagen de una chimenea](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Firespace.jpg)
+
 - Bathroom (Baño)
-  ![imagen de un baño](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/bathroom.jpg)
+
+![imagen de un baño](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/bathroom.jpg)
+
 - Living room (Sala de estar)
-  ![imagen de una sala](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Livingroom.jpg)
+
+![imagen de una sala](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Livingroom.jpg)
+
 - Dining room (Comedor)
-  ![imagen de un comedor](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Diningroom.jpg)
+
+![imagen de un comedor](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Diningroom.jpg)
+
 - Kitchen (Cocina)
-  ![Imagen de una cocina](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/kitchen.jpg)
+
+![Imagen de una cocina](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/kitchen.jpg)
+
 - Study (Estudio)
-  ![Imagen de un estudio](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/study.jpg)
+
+![Imagen de un estudio](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/study.jpg)
+
 - Yard (Patio)
-  ![Imagen de un patio trasero](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Yart.jpg)
+
+![Imagen de un patio trasero](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Yart.jpg)
+
 - Dog house (Casa de perro)
-  ![Imagen de una casa para perro](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/doghouse.jpg)
+
+![Imagen de una casa para perro](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/doghouse.jpg)
 
 ------
 
@@ -215,27 +230,48 @@ Escribe en la sección de comentarios tres oraciones acerca de **liked** (me gus
 Para describir las casa y sus espacios debemos agregar a nuestro vocabulario, los siguientes adjetivos que nos ayudarán a comunicar el aspecto y emociones que nos provocan.
 
 - Vintage (Antiguo)
-  ![Una sala de estar antigua](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/vintage.jpg)
+
+![Una sala de estar antigua](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/vintage.jpg)
+
 - Modern (Moderno)
-  ![Sala de estar moderna](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/modern.jpg)
+
+![Sala de estar moderna](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/modern.jpg)
+
 - Lighting (Iluminado)
-  ![Sala de estar iluminada](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/lighting.jpg)
+
+![Sala de estar iluminada](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/lighting.jpg)
+
 - Luxurious (Lujosa)
-  ![Antesala lujosa](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/luxurious.jpg)
+
+![Antesala lujosa](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/luxurious.jpg)
+
 - Roomy (Amplio)
-  ![Sala de estar amplia](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Roomy.jpg)
+
+![Sala de estar amplia](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Roomy.jpg)
+
 - Cramped (Estrecho)
-  ![Comedor estrecho](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Cramped.jpg)
+
+![Comedor estrecho](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Cramped.jpg)
+
 - Cozy (Acogedor)
-  ![Habitación acogedora](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Cozy.jpg)
+
+![Habitación acogedora](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Cozy.jpg)
+
 - Window frame (Muchas ventanas)
-  ![Una ventana grande](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Windows_frame.jpg)
+
+![Una ventana grande](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Windows_frame.jpg)
+
 - Railing (Barandillas)
-  ![Escaleras con barandillas](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Railing.jpg)
+
+![Escaleras con barandillas](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Railing.jpg)
+
 - Wooden (De madera)
-  ![Comedor de madera](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Wooden.jpg)
+
+![Comedor de madera](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Wooden.jpg)
+
 - Step (Escalón)
-  ![Escaleras](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/step%20%281%29.jpg)
+
+![Escaleras](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/step%20%281%29.jpg)
 
 ## Examples / Ejemplos
 
@@ -249,34 +285,39 @@ Veamos algunos ejemplos usando las palabras anteriormente vistas:
 Elige la respuesta adecuada basándote en la imagen.
 
 - This living room is… (Esta sala de estar es…)
-  ![Imagen de una sala de estar](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Livingroom1.jpg)
+
+![Imagen de una sala de estar](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Livingroom1.jpg)
 
 a. Modern, with a good natural lighting, and large (Moderna, con buena luz natural y grande)
 b. Modern, cozy, and large (Moderna, acogedora y grande)
 c. Vintage, luxurious, and cramped (Antigua, lujosa y estrecha)
 
 - This bedroom is… (Esta habitación es…)
-  ![imagen de una habitación](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/bedroom1.jpg)
+
+![imagen de una habitación](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/bedroom1.jpg)
 
 a. Vintage, roomy and beige (Antigua, amplia y de color [beige](https://www.google.com/search?q=+color+beige&rlz=1C1ONGR_esCO927CO927&sxsrf=ALiCzsav0VB7IdWT79e_oY6MUS4roFAffA%3A1654637567630&ei=_8OfYraLJqOEytMP6v6pwAo&ved=0ahUKEwj2hs2jpZz4AhUjgnIEHWp_CqgQ4dUDCA4&uact=5&oq=+color+beige&gs_lcp=Cgdnd3Mtd2l6EAMyCAgAEIAEELEDMgUIABCABDIICAAQgAQQsQMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgcIIxDqAhAnSgQIQRgASgQIRhgAUP4EWP4EYOgJaAFwAXgAgAGzAYgBswGSAQMwLjGYAQCgAQGgAQKwAQrAAQE&sclient=gws-wiz)
 b. modern, medium-sized and white (Moderna, de tamaño medio y blanca)
 c. Traditional, large, and yellow (Tradicional, grande y amarilla)
 
 - This living room is… (Esta sala de estar es…)
-  ![imagen de una sala de estar](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/livingroom2.jpg)
+
+![imagen de una sala de estar](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/livingroom2.jpg)
 
 a. Cozy, cramped and with a average lighting (Acogedora, estrecha y con iluminación media)
 b. Luxurious, roomy, and mostly gray (Lujosa, amplia y mayormente gris)
 c. vintage, cozy, and black (Antigua, acogedora y negra)
 
 - This living room is… (Esta sala de estar es…)
-  ![imagen de una sala de estar](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/livingroom3.jpg)
+
+![imagen de una sala de estar](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/livingroom3.jpg)
 
 a. Modern, large and white (Moderna, grande y blanca)
 b. vintage, cramped, and white (Antigua, estrecha y blanca)
 
 - This study is… (Este estudio es…)
-  ![Imagen de un estudio](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/study1.jpg)
+
+![Imagen de un estudio](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/study1.jpg)
 
 a. Vintage, comfortable, and green (Antiguo, cómodo y verde)
 b. Modern, uncomfortable, and brown (Moderno, incómodo y café)
@@ -557,21 +598,25 @@ Realiza una lista de cinco cosas que encuentres en tu casa, cuéntanos de quien 
 Luego de escuchar el role-play, trata de responder las siguientes preguntas basándote en las imágenes que verás a continuación.
 
 - My dream open living room has… (La sala de estar abierta de mis sueños tiene…)
-  ![Livingroom1](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Livingroom1.jpg)
+
+![Livingroom1](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Livingroom1.jpg)
 
 **a.** A great view and a pool (Una gran vista y una piscina)
 **b.** Small, dark, and has a big door (Pequeña, de color negro y con una gran puerta)
 **c.** Vintage, cramped, and dark(Antigua, estrecha y de color de negro)
 
 - My dream living room is… (La sala de estar de mis sueños es…)
-  ![livingroom2](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/livingroom2.jpg){height="" width=""}
+  
 
-  **a.** Humble, middle-sized, and mostly wooden (Humilde, de tamaño medio y mayormente de madera)
-  **b.** Luxurious, with a good lighting and mostly metalic (Lujosa, con buena iluminación y mayormente metálica)
-  **c.** Old-fashioned, small, and cramped (A la antigua, pequeña y estrecha)
+![livingroom2](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/livingroom2.jpg){height="" width=""}
+
+**a.** Humble, middle-sized, and mostly wooden (Humilde, de tamaño medio y mayormente de madera)
+**b.** Luxurious, with a good lighting and mostly metalic (Lujosa, con buena iluminación y mayormente metálica)
+**c.** Old-fashioned, small, and cramped (A la antigua, pequeña y estrecha)
 
 - My dream study looks… (El estudio de mis sueños luce…)
-  ![study1](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/study1.jpg)
+
+![study1](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/study1.jpg)
 
 **a.** Traditional, huge, and yellow (Tradicional, grande y amarillo)
 **b.** vintage, humble, and beige (Antiguo, humilde y de color beige)
