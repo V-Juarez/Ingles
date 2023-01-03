@@ -470,3 +470,558 @@ A continuación, piensa en 5 sustantivos que funcionan como contables e incontab
 >
 > - She found jam in my fridge.
 > - OMG, this aisle it’s full of jams
+
+## Quantifiers with of
+
+Un cuantificador (quantifier) es una palabra que indica la cantidad de algo. Generalmente, van acompañadas de la palabra **of**. Algunos de ellos son:
+
+- **lots** / muchos
+- **some** / algunos
+- **a bit** / un poco
+- **a lot** / mucho
+
+### Cómo usar *quantifiers*
+
+Los quantifiers se usan después de sustantivos, pronombres, determinantes o una forma posesiva antes de un sustantivo.
+
+- She donated **lots of her clothes** to charity. // Ella donó mucha de su ropa a la caridad.
+  En esta oración podemos saber que ella no donó toda su ropa, pero sí una gran cantidad.
+
+### Ejemplos del uso de *quantifiers*
+
+- **Some of these pens** are not mine.
+- You should have **a bit of optimism**.
+- **Lots of their money** came from their family.
+- **A lot of the umbrellas** are pink.
+- Can I have **some of your brownies**, please?
+- I save **a bit of money** every month.
+
+> She learned **a lot of his** boyfriend
+>
+> He paid a lot **of money** yesterday
+>
+> He saved some **of his candy** in my backpack
+>
+> I spent a bit **of my** money
+>
+> A lot **of students** prefer to learn face-to-face
+>
+> ----
+>
+> I love lots of the shoes.
+> She has some oranges.
+> I want a bit of rice.
+> I still don’t know a lot of Acapulco beaches.
+
+## Using quantifiers at the spermarket
+
+Vamos a poner en práctica el uso de *countable & uncountable nouns* y *quantifiers* en el siguiente diálogo. Presta mucha atención a la conversación que están teniendo César y su mamá.
+
+Al final, tendrás que responder a tres preguntas:
+
+1. What are they going to buy at the supermarket?
+2. How many wines do they have?
+3. Why are they not buying soda?
+
+> 
+
+**Cesar’s phone rings**
+
+**Cesar**: Hello.
+
+**Mom**: Hi, darling. It’s mom!
+
+**Cesar**: Hey mom. Is everything ok?
+
+**Mom**: Yeah, all good. I’m calling to ask you to go to the supermarket with me after work. Aunt Josy is coming for lunch tomorrow, and we need food! Lots of it. She’s bringing your cousins, and you know how much they eat.
+
+**Cesar**: Ah, that’s right. I forgot about lunch tomorrow. But sure, I’ll go with you. What do you want to buy?
+
+**Mom**: Well, there is no food in this house, since I couldn’t go shopping after we came back from our trip. I believe if we can cook some pasta, it will be easier.
+
+**Cesar**: Great! Pasta it is. So we’ll have to buy some spaghetti, some onions, some garlic…
+
+**Mom**: And a lot of tomatoes! I hate when people make pasta with just a bit of sauce. The sauce is the best part. We must buy some ground beef to prepare bolognese sauce.
+
+**Cesar**: Sure, mom… Should we buy some soda? We need something to drink.
+
+**Mom**: No way! Children shouldn’t drink soda, it has lots of sugar. We are buying fruit, so I can prepare some juice. Everybody loves juice. Besides, aunt Josy said she is on a diet.
+
+**Cesar**: Ok, ok! But I’m buying some red wine.
+
+**Mom**: More wine? Don’t you remember we brought home three wines from the trip?
+
+**Cesar**: Ah, you are right! I forgot about that. What about cheese?
+
+**Mom**: Of course, I knew I was forgetting something. We can buy some at that store next to the supermarket. They have cheeses from everywhere in the world.
+
+**Cesar**: Great. You should make a list, so we don’t forget anything.
+
+**Mom**: Yeah, I’m already on it. And I’ll add some other things we need this week.
+
+**Cesar**: Ok mom. I have to go back to work now, some people are already staring at me.
+
+**Mom**: No worries. I’ll meet you there at 6pm then.
+
+**Cesar**: Ok, see you there!
+
+**Respuestas**:
+
+1. Some spaghetti, some onions, some garlic, a lot of tomatoes and cheese.
+2. They have three wines.
+3. Soft drinks have too much sugar. Instead, they will buy fruit.
+
+***Contribución creada con aportes de**: José Miguel Veintimilla.*
+
+> 1. **How many tomatoes do they need to make pasta?**
+>    To make paste, they need a lot of tomatoes.
+> 2. **How many wines do they have?**
+>    They have three wines.
+> 3. **Why are they not buying soda?**
+>    Children should not drink soda because it has a lot of sugar. Instead, she makes fruit juice to drink.
+
+## Adjectives and adverbs
+
+Cuando encontramos adjetivos largos debemos usar una regla distinta para formar comparativos y superlativos. **Si el adjetivo tiene tres sílabas o más, es considerado como adjetivo largo.** Estos también se pueden utilizar con adverbios, pero por ahora solo nos vamos a concentrar en los adjetivos.
+
+Para formar oraciones usamos la siguiente composición:
+
+- **more** + **adjective** + **than**
+
+### Ejemplos de oraciones comparativas con adjetivos largos
+
+- Math is **more difficult than** English. / Las matemáticas son más difíciles que el inglés.
+- iPhones are **more expensive than** Xiaomi. / Los iPhones son más caros que los Xiaomi.
+- The green dress is **more beautiful than** the black one. / El vestido verde es más bonito que el negro.
+- Snakes are **more dangerous than** sheep. / Las serpientes son más peligrosas que las ovejas.
+
+### Reglas generales para formar comparativos y superlativos
+
+|                                       | Adjetivo  | Comparativo                    | Superlativo                     |
+| ------------------------------------- | --------- | ------------------------------ | ------------------------------- |
+| Una sílaba                            | strong    | strong**er**                   | strong**est**                   |
+| Consonante + vocal corta + consonante | big       | big**ger**                     | big**gest**                     |
+| Terminados en -e                      | large     | large**r**                     | large**st**                     |
+| Terminados en -y                      | happy     | happ**ier**                    | happ**iest**                    |
+| Dos sílabas                           | gentle    | gentl**er** or **more** gentle | gentl**est** or **most** gentle |
+| Tres o más sílabas                    | expensive | **more** expensive             | **most** expensive              |
+| Irregulares                           | good      | better                         | best                            |
+
+### Ejercicio usando comparativos con adjetivos largos:
+
+Ahora intenta escribir 5 oraciones empleando adjetivos largos. Aquí tienes una lista de adjetivos con los que puedes trabajar. Comparte tu trabajo en la sección de aportes. ¡Manos a la obra!
+
+- Handsome
+- Exhausted
+- Generous
+- Different
+- Delicate
+- Natural
+- Necessary
+- Opposite
+- Parallel
+- Private
+- Strange
+- Violent
+
+> **Examples**
+>
+> Pizza is more delicious than hamburger.
+> Books are more interesting than movies.
+> Cars are more expensive than motorcycles.
+> Dogs are more friendly than cats.
+>
+> - Platzi is more effective than University
+> - Skullcandy is more expensive than Sony
+> - Suggar desserts are more delicious than salad desserts
+> - Pizza with pineapple is more interesting than Peperoni Pizza
+> - You’re more important to me than everything
+
+## How to form comparative adjectives
+
+### Comparative Adjectives
+
+##### **COMPARATIVE ADJECTIVE + THAN**
+
+One and two syllables
+
+- General rule: add **-er (comparative)**
+
+| Adjective | Comparative |
+| --------- | ----------- |
+| tall      | taller      |
+| long      | longer      |
+
+**Examples:**
+
+1. Sarah is **taller than** Josy.
+2. Titanic is **longer than** Shrek.
+
+- If the adjective **ends in e**, add **-r**
+
+| Adjective | Comparative |
+| --------- | ----------- |
+| nice      | nicer       |
+| large     | larger      |
+
+Examples:
+
+1. Martha is nicer **than** Jake.
+2. Brazil is larger **than** Argentina.
+
+- If the adjective **ends in CVC (consonant + single vowel + consonant)**, we double the final consonant and add **-er**
+
+| Adjective | Comparative |
+| --------- | ----------- |
+| big       | bigger      |
+| sad       | sadder      |
+
+Examples:
+
+1. Which animal is **bigger than** an elephant?
+2. The song “Tears in Heaven” is **sadder than** the song “Happy”.
+
+- If the adjective **ends in consonant + y**, change the *y* to an *i* and add **-er**
+
+| Adjective | Comparative |
+| --------- | ----------- |
+| happy     | happier     |
+| busy      | busier      |
+
+Examples:
+
+1. My wedding day was **happier than** this party.
+2. Johnny is **busier than** me.
+
+Two and three or more syllables
+
+- Put ***more\*** in front of the adjective.
+
+| Adjective | Comparative    |
+| --------- | -------------- |
+| beautiful | more beautiful |
+| perfect   | more perfect   |
+| expensive | more expensive |
+
+Examples:
+
+1. My daughter is **more beautiful than** his.
+2. That artwork is **more perfect than** the one we saw yesterday.
+3. We can’t fly first class. Those tickets are **more expensive than** the others.
+
+**List of two-syllable adjectives you can either add -er or put more in front**
+
+- common
+- narrow
+- cruel
+- pleasant
+- gentle
+- polite
+- handsome
+- simple
+- likely
+- stupid
+
+Examples:
+
+1. This one is **more simple than** the other exercise.
+2. This one is **simpler than** the other exercise.
+3. Let’s ask Martin to speak to the principal. He is **more polite than** me.
+4. Let’s ask Martin to speak to the principal. He is **politer than** me.
+
+**Irregular comparatives**
+
+| Adjective | Comparative       |
+| --------- | ----------------- |
+| bad       | worse             |
+| far       | farther / further |
+| good      | better            |
+| little    | less              |
+| much      | more              |
+
+Examples:
+
+1. My grandma bakes **better cookies than** my mom.
+2. Nothing works! This system is **worse than** the previous one!
+
+![comparative-superlative-explanation.jpg](https://static.platzi.com/media/user_upload/comparative-superlative-explanation-3f405bc3-42d1-405c-9e4c-1aec789d71fe.jpg)
+
+## Adverbs of frequency: Correct position
+
+Seguro has visto los adverbios de frecuencia siendo usados en diferentes posiciones dentro de una oración, y te has preguntado, ¿cómo se usan realmente? Pues ahora lo vas a entender muy bien.
+
+![](./Adverbs of frequency position.png)
+
+Podemos colocar los **adverbios de frecuencia** en **tres posiciones**:
+
+![](./Posición de los adverbios de frecuencua.png)
+
+
+
+### Ejemplos con las diferentes posiciones de los adverbios de frecuencia
+
+- Los adverbios always (siempre), ever y never (nunca) normalmente no van al inicio de la oración.
+- Los adverbios de frecuencia van delante del verbo principal, pero detrás del verbo to be:
+
+> Cesar **often** *comes* late and John *is* **often** late too / César suele llegar tarde y Juan también suele llegar tarde
+
+- Antes del verbo principal:
+
+> She **never** *smokes*.
+> They **usually** *come* here at night.
+
+- Después del verbo ser (be).
+
+> He *is* **always** hungry.
+> You *are* **hardly** ever right.
+
+- Entre un verbo modal y el verbo principal.
+
+> She *should* **always** *listen* to her grandma.
+> They *can* **usually** *see* each other.
+
+- Entre un auxiliar y el verbo principal
+
+> He *doesn’t* **normally** go there.
+> They *have* **never** *been* to this place before.
+
+#### Ejercicio para practicar las posiciones de los adverbios de frecuencia
+
+Ahora te invito a escribir tus propios ejemplos utilizando los adverbios de frecuencia que has aprendido, en su posición correcta. Te comparto unos ejemplos:
+
+- I usually go to the university at night.
+- My best friend always comes to my house on weekends.
+- Laura often visits her grandparents at Christmas.
+
+> 1. I am always worried about the future
+> 2. Sometimes, I close my eyes and think in the past
+> 3. I hardly ever remember things my daughter tells me
+> 4. Vicky is always in a hurry
+> 5. Kely can never go to the gym during the week
+> 6. The Jackson´s have often eaten in this restaurant
+
+## Adverbs and Adjectives
+
+![Difference-Between-Adverb-and-Adjective-infographic.png](https://static.platzi.com/media/user_upload/Difference-Between-Adverb-and-Adjective-infographic-131b47eb-ce57-4396-83ee-79e0b2472cb3.jpg)
+
+Los **adjetivos** describen las cualidades de un sustantivo.
+**Por ejemplo:** The cat is **lazy.** Estamos dando una cualidad del gato: es perezoso.
+
+Los **adverbios** describen cómo se realiza una acción.
+**Por ejemplo:** The cat runs **quickly.** Estamos describiendo qué tan rápido corre el gato: rápidamente
+
+- Los adverbios suelen tener la forma de un adjetivo + “*y*” al final de la palabra.
+- Suelen ser adverbios de modo (slowly / lentamente) y de grado (totally / totalmente).
+
+### Ejemplos de adjetivos y adverbios
+
+| Adjetivo    | Traducción | Adverbio    | Traducción    |
+| ----------- | ---------- | ----------- | ------------- |
+| Patient     | Paciente   | Patiently   | Pacientemente |
+| Horrible    | Horrible   | Horribly    | Horriblemente |
+| Nervous     | Nervioso   | Nervously   | Nerviosamente |
+| Quick       | Rápido     | Quickly     | Rápidamente   |
+| Shy         | Tímido     | Shyly       | Tímidamente   |
+| Lazy        | Perezoso   | Lazyly      | Perezosamente |
+| Loud        | Ruidoso    | Loudly      | Ruidosamente  |
+| Quiet       | Callado    | Quietly     | Calladamente  |
+| Comfortable | Cómodo     | Comfortably | Cómodamente   |
+| Cheerful    | Alegre     | Cheerfully  | Alegremente   |
+
+Observemos cómo cambian los adjetivos cuando los convertimos en adverbios:
+
+- calm → calmly
+- honest → honestly
+- beautiful → beautifully
+- easy → easily
+- tragic → tragically
+- terrible → terribly
+- hard → hard
+
+### Excepción: hard no se convierte en hardly
+
+Seguramente te diste cuenta de que hard no cambia de forma. Esto es porque **es tanto un adjetivo como un adverbio**. Cuando es un **adverbio**, significa que **necesita o utiliza mucho esfuerzo físico o mental.**
+
+**Por ejemplo:**
+
+> I studied **hard** for my exams but didn’t do very well. / Estudié mucho para mis exámenes pero no me fue muy bien.
+> We have worked **hard** all day. / Hemos trabajado mucho durante todo el día.
+
+“**Hardly**” es otro adverbio, pero no significa “*mucho esfuerzo físico o mental*”. **“Hardly” suele significar “\*apenas\*” o "\*casi\***".
+
+> I had a terrible night, I **hardly** slept. / Tuve una noche terrible, apenas dormí.
+> It was raining so hard that I **hardly** saw your face. / Llovía tanto que casi no vi tu cara.
+
+“**Hardly ever**” es un adverbio de frecuencia que significa: *no muy a menudo* o *casi nunca*.
+
+> He **hardly ever** smiles / El casi nunca sonríe.
+
+## How to form adverbs by adding -ly to adjectives
+
+We use adverbs to describe verbs, adjectives, or other adverbs. They often have the form of an adjective + -ly. There are many types of adverbs, and the ones ending in -ly are usually adverbs of degree (e.g., totally, completely) and adverbs of manner (e.g., quickly, slowly).
+
+In this class you will learn the grammatical rules to form adverbs by adding -ly to adjectives:
+
+- General rule: add **-ly** after the adjective
+
+| Adjective | Adverb   |
+| --------- | -------- |
+| honest    | honestly |
+| fair      | fairly   |
+| slow      | slowly   |
+| calm      | calmly   |
+
+Examples:
+
+1. Sarah left the party **quickly**.
+2. He was behaving **calmly** yesterday.
+
+- If the adjective ends in consonant **+ y**, change the *y* to an *i* and add **-ly**
+
+| Adjective | Adverb  |
+| --------- | ------- |
+| happy     | happily |
+| lucky     | luckily |
+| angry     | angrily |
+| easy      | easily  |
+
+Examples:
+
+1. Let’s go home. The ice cream is melting **quickly**.
+2. It was the first time I saw Bob react so **angrily**.
+
+- If the adjective **ends in ic**, add **-ally**
+
+| Adjective | Adverb        |
+| --------- | ------------- |
+| automatic | automatically |
+| dramatic  | dramatically  |
+| basic     | basically     |
+| magic     | magically     |
+
+Examples:
+
+1. These three colors are **basically** the same.
+2. Lately, the weather has changed **dramatically**.
+
+- If the adjective **ends in le**, change the *le* to **-ly**
+
+| Adjective  | Adverb     |
+| ---------- | ---------- |
+| possible   | possibly   |
+| incredible | incredibly |
+| terrible   | terribly   |
+| horrible   | horribly   |
+
+Examples:
+
+1. Skipping class makes me feel **terribly** guilty.
+2. Jacky felt **incredibly** sad after the final exams.
+
+- If the adjective **ends in l**, double the *l* and add **-ly**
+
+| Adjective  | Adverb       |
+| ---------- | ------------ |
+| beautiful  | beautifully  |
+| careful    | carefully    |
+| hopeful    | hopefully    |
+| historical | historically |
+
+Examples:
+
+1. Sam sings **beautifully**.
+2. **Hopefully**, she won’t see us.
+
+- Some adverbs have the same form as adjectives. You don’t need to add **-ly**. Let’s see a list of the most common ones:
+
+1. fast
+2. left
+3. hard
+4. right
+5. outside
+6. straight
+7. late
+8. well
+9. little
+10. early
+
+Examples:
+
+1. They can swim really **fast**.
+2. The students are working **hard** to learn this topic.
+
+## Test your knowledge of Adjectives and Adverbs
+
+## Ejercicio sobre adverbios y adjetivos
+
+Lee las siguientes oraciones y determina si son correctas o incorrectas.
+
+| Sentences                                              | Check       |
+| ------------------------------------------------------ | ----------- |
+| Sarah left the party quick.                            | ❌ Incorrect |
+| It was the first time that I saw Bob react so angrily. | ✔️ Correct   |
+| Lately, the weather has changed dramatically.          | ✔️ Correct   |
+| That’s a beautiful painting.                           | ✔️ Correct   |
+| Sam sings beautiful.                                   | ❌ Incorrect |
+| She runs fastly.                                       | ❌ Incorrect |
+| I never arrive late.                                   | ✔️ Correct   |
+| He cooks very good.                                    | ❌ Incorrect |
+| You are working very hard to learn this topic.         | ✔️ Correct   |
+| Jack felt incredibly sad after the final exam.         | ✔️ Correct   |
+|                                                        |             |
+
+![adverbs irregular.JPG](https://static.platzi.com/media/user_upload/adverbs%20irregular-13eb3c5c-8082-400d-83a5-a8b32f53450f.jpg)
+
+## Role Play: Pastimes
+
+Te proponemos que leas este diálogo para practicar el uso y diferenciación de adjetivos y adverbios. Presta mucha atención a lo que dicen Cesar y su invitado para que puedas realizar el ejercicio al final de esta clase.
+
+Mientras lees, intenta **reconocer todos los adjetivos y adverbios** que puedas.
+
+## Diálogo usando adjetivos y adverbios
+
+**Cesar**: What’s up?
+
+**Guest**: Great, and you?
+
+**Cesar**: I’m doing fine. Work’s been tough, but ok. Hey, it’s ***always\*** great to have you guys here.
+
+**Guest**: I can see that. Your eyes look tired.
+
+**Cesar**: Oh, that. No, I think I have an allergy or something.
+
+**Guest**: Anyway, I’m glad you guys are back. Last weekend there was this party, and I had no one to go with. But it was ***nicer than\*** the ones we used to go to when we were teenagers. You missed it.
+
+**Cesar**: I’m glad to be back, too. So tell me, how’s school going?
+
+**Guest**: Not so well. I need to get good grades for my next exams, so I don’t fail this semester.
+
+**Cesar**: Again? I thought you were doing ***better\*** this semester ***than\*** the previous one.
+
+**Guest**: Well, you know me, right? I ***never\*** study, but this time I tried a little ***harder\***, but still…
+
+**Cesar**: I get it. College is not like high school. Do you remember our senior year? I used to feel ***more intelligent\*** back then.
+
+**Guest**: Tell me about it. I thought the subjects would be ***more interesting\*** at college, but I really don’t like them. And ***sometimes\***, I feel that the professors are not in love with me being in their class either. At school, the teachers used to be ***friendly\***, but now it’s different.
+
+**Cesar**: Well, it’s ***more difficult\*** to be a flatterer, you mean. Hahaha.
+
+**Guest**: It’s not that! It’s just ***harder\*** to make them fall for me. Hahaha.
+
+**Cesar**: No worries. It’s more complicated in the beginning than later. Believe me. I’ve been there.
+
+**Guest**: I know. But my mom is not happy. My university is ***more expensive\*** than others, and she said this is my last chance. If I do as ***horribly\*** as I did last semester, I’ll have to change schools.
+
+**Cesar**: I can talk to aunt Josy if you want. I can ***easily\*** convince her to give you one more chance.
+
+**Guest**: I doubt it. But you should try. And if you ***magically\*** convince my mom about that, I can think about inviting you to the next party.
+
+**Cesar**: Deal!
+
+### Ejercicio sobre adjetivos y adverbios
+
+¡Muy bien! Seguro notaste que algunas palabras estaban resaltadas y en cursiva.
+
+Ahora **grábate pronunciando cada una de ellas y escúchalas** para que puedas darte retroalimentación. No olvides que puedes usar [Vocaroo](https://vocaroo.com/), herramienta recomendada en el curso de Estrategias para aprender Inglés.
+
+[class-17-roleplay--pastimes.docx](https://static.platzi.com/media/public/uploads/class-17-roleplay_-pastimes_a70fa266-ca0c-4a98-908c-1e78e6099f02.docx)
