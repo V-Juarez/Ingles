@@ -1025,3 +1025,446 @@ Mientras lees, intenta **reconocer todos los adjetivos y adverbios** que puedas.
 Ahora **grábate pronunciando cada una de ellas y escúchalas** para que puedas darte retroalimentación. No olvides que puedes usar [Vocaroo](https://vocaroo.com/), herramienta recomendada en el curso de Estrategias para aprender Inglés.
 
 [class-17-roleplay--pastimes.docx](https://static.platzi.com/media/public/uploads/class-17-roleplay_-pastimes_a70fa266-ca0c-4a98-908c-1e78e6099f02.docx)
+
+## Offers and Advice
+
+Para poder hacer oraciones con ofertas y consejos para otra persona, usamos la palabra ***should\***. Sirve para recomendar una acción y para afirmar si nos parece que algo es como debería ser o no. La pronunciación correcta es /***shud\***/.
+
+### Por qué y cuando usar Should
+
+La palabra should es cortés y amigable. No pretende obligar, sino dar una sugerencia. Por ejemplo:
+
+- You should go to bed / Deberías ir a la cama.
+- Should I accompany you to work? / ¿Debo acompañarte al trabajo?
+
+Seguro te preguntas con el segundo ejemplo: ¿por qué mejor no usar *can*?" ¿Puedo acompañarte al trabajo? Pues bien, con *can* preguntas si realizar una acción es posible, con *should* sugieres realizar esa acción.
+
+### Should para realizar ofertas
+
+Las ofertas se realizan en forma de preguntas y se coloca *should* al inicio. Por ejemplo:
+
+- **Should** I go with you? / ¿Debería ir contigo?
+- **Should** we help you with your homework? / ¿Te ayudamos con los deberes?
+
+#### Should para aconsejar
+
+Should también se utiliza para expresar tus consejos a alguien. Se usa *should* después del pronombre:
+
+- You should go to the doctor / Deberías ir al médico.
+- We shouldn’t drink so much. / Nosotros no deberíamos beber tanto.
+- We should go / Deberíamos irnos
+
+> - You should reheat the leftovers from yesterday’s dinner.
+> - If you want to get a better grade on that exercise, you should read the instructions carefully and thoroughly.
+> - You probably dropped it when you got on the motorcycle, you should start looking around for it.
+> - You should eat breakfast before you come to class.
+> - You should study the previous subjects harder.
+> - Should i help you to find it
+
+![Imagen sin título.png](https://static.platzi.com/media/user_upload/Imagen%20sin%20t%C3%ADtulo-97c9ca1f-6de7-4266-ae79-32a87349399f.jpg)
+
+> *Cesar, You should eat something / Should we go to eat?*
+> *Cesar, You should study more / Should I study with you?*
+> *Cesar, You should pay attention in your things / Should I help you to find it?*
+
+## Possesion and Attribution: Of
+
+Seguro en algún momento dijimos *The house of my father* (no tan común), en lugar de *My father’s* house (correcto). No te preocupes, todos nos confundimos con esta palabra al principio.
+
+### Cuándo empleamos *of* y cuando *'s* (apóstrofe + s)
+
+**'s: para objetos animados**. Personas, animales, países, etc. Todo aquello que se considere una entidad independiente.
+
+Por ejemplo:
+
+- **Gabriel’s** shirt is clean. / La camisa de Gabriel está limpia.
+- The **dog’s** ears are dirty. / Las orejas del perro están sucias.
+- **Ecuador’s** elections will be held next year. / Las elecciones en Ecuador se celebrarán el próximo año.
+
+**Of: para objetos inanimados.** Muebles, piezas, cosas.
+
+Por ejemplo:
+
+- The color **of** my hair is brown. / El color de mi pelo es castaño.
+- The start **of** the lesson was hard. / El comienzo de la lección fue duro.
+- This chair is the property **of** the school. / Esta silla es propiedad de la escuela.
+
+### Ejercicio usando of para expresar posesión
+
+¡A practicar! Busca a tu alrededor, cinco objetos y dales un dueño con la palabra of. Te comparto otros ejemplos para que te guíes.
+
+- The color of her eyes is beautiful
+- What size of pants do you wear?
+- The departure of the train is delayed.
+- Which color of the rainbow do you like?
+- What’s your favorite part of the movie?
+- Check out the new car of the year.
+
+> > It was really easy to understand with the animate and an inanimate being.
+>
+> - My **dog’s** eyes are brown.
+> - The color **of** my computer is light blue.
+> - My mom’s dress is beautiful.
+> - The window **of** my bedroom is big.
+> - My **cat´s** eyes color are green with yellow.
+> - I´ve ran hastily cuz I wanted found my ticket of my flight.
+> - My **brother’s** brow furrowed, when he finded out my piercing. 
+> - She´s a nasty girl so she threw garbage of their house on my garden.
+> - My **grandfather´s** kitchen was utterly mess.
+
+## Possession adn Atribution: with / without
+
+En inglés podemos decir que algo o alguien pertenece o está con algo o alguien más usando la palabra *with*.
+
+### With para expresar posesión
+
+Es una preposición para expresar lo que tiene una persona u objeto. Su traducción más directa es “*con*”. Por ejemplo:
+
+- She is next to the boy **with** tattoos / Ella está junto al chico con tatuajes.
+- The red car **with** a sunroof is beautiful / El coche rojo con techo solar es precioso.
+
+Sin embargo, también hay casos en que se traduce como “*de*”. Por ejemplo:
+
+- Andrés fell in love **with** Ana / Andrés se enamoró de Ana.
+
+#### Without para expresar falta de posesión
+
+Es una preposición para expresar que una persona u objeto no tiene algo. La traducción más habitual es sin, aunque también lo encontramos como un simple “no”.
+
+- I arrived **without** money / Llegué sin dinero.
+- My notebook is the one **without** a cover / Mi cuaderno es el que no tiene tapa.
+
+Algunas expresiones a tener en cuenta:
+
+- without a doubt (sin lugar a dudas)
+- without a word (sin decir una palabra)
+- without a break (sin parar)
+
+### ¡Ten cuidado con las traducciones literales!
+
+Aunque sabemos que **with** se traduce como *con* y **without** como *sin*, no siempre vamos a emplear estas expresiones como lo haríamos en español.
+
+**Por ejemplo:**
+Para la frase → “He estado todo el día con dolor en la espalda”:
+**No traducimos:** I have been all day long with pain in my back.
+**Sí traducimos:** I have had back pain all day long.
+
+### Ejercicio usando with y without
+
+Ahora que ya conoces cómo usar with y without, es momento de crear tus propias oraciones. Te invito a basarte en los elementos que tienes a tu alrededor.
+
+Aquí tienes más ejemplos que te pueden servir de guía:
+
+- She is a girl **with** short hair.
+- My friend is calling me **with** a broken cellphone.
+- I love plain donuts, **without** glaze.
+- I’m here **with** my laptop.
+- She went shopping **without** me.
+- I like to run in the park **with** my airpods.
+- My father loves to sing **with** his best friend.
+- Elisa is working **without** her peers.
+
+**Examples**:
+
+> She looks like a model with this outfit.
+> You should repair your phone with my friend.
+> I just eat snacks without sugar.
+
+- Five examples:
+
+![pictures.png](https://static.platzi.com/media/user_upload/pictures-5fbbd268-6c96-48f4-aec7-17ca4aa54a5f.jpg)
+
+> You will travel to different places and visit your favorite countries **with** your own effort.
+> I think, I improve my English skills **with** Platzi English Academy.
+> You cannot do competitive programming **without** data structures.
+> Sometimes is good watch animes **with** friends or family or maybe alone.
+> I waiting the next squid game season with emotion 
+
+## Deny intentions and desires
+
+Todos necesitamos aprender a expresar cuando algo no nos gusta o simplemente no lo queremos. Para resumir estas intenciones, tenemos dos expresiones importantes: **Wouldn’t like to y don’t want to.**
+
+### Wouldn’t like to: “No me gustaría…”
+
+- I **wouldn’t like to** cook pasta tonight / No me gustaría cocinar pasta esta noche.
+- I **wouldn’t like to** spend my weekend studying / No me gustaría pasar mi fin de semana estudiando.
+
+#### Don’t want to: “No quiero…”
+
+- I **don’t want to** spend my weekend studying / No quiero pasar el fin de semana estudiando.
+- I **don’t want to** stay in a full soccer stadium / No quiero quedarme en un estadio de fútbol lleno.
+
+### Cuándo usar *wouldn’t like to* o *don’t want to*?
+
+Ahora te estarás preguntando cuál es la diferencia entre una y otra expresión. Solo existe una diferencia y es que, como te habrás podido dar cuenta, ***wouldn’t like to\* suena más amable que \*don’t want to\***.
+
+Son sinónimos. Así que, el uso de *“would not like to”* o *“do not want to”* depende de tu criterio y del contexto.
+
+> 1. I would like to live in a big city
+> 2. I don’t want to eat pizza again
+> 3. My kid wouldn’t like to wear this gree dress
+> 4. Sarah doesn’t want to go out with us tonight
+> 5. She doesn’t like to study
+> 6. I wouldn’t like to paly next weekend
+> 7. I don’t want to eat pasta for dinner
+
+
+
+> - I don’t want to eat a burger for dinner.
+>   I wouldn’t like to eat a burger for dinner.
+> - I don’t want to study Juridical Science.
+>   I wouldn’t like to study Juridical Science.
+> - I don’t want to go to schoool tomorrow.
+>   I wouldn’t like to go to school tomorrow.
+> - I don’t want to go to a concert today.
+>   I wouldn’t like to go to a concert today.
+> - I don’t want to go to the park in the weekend.
+>   I wouldn’t like to go to the park in the weekend.
+
+## Obligations and needs: have to / must
+
+Las obligaciones se refieren a cuando sabes que debes hacer algo y ese algo no es opcional.
+
+Con *have to / must* expresamos que la acción se debe hacer.
+
+### ¿Cuál es la diferencia entre have to / must?
+
+**Must**: se refiere a una **obligación entre dos personas, o una obligación que sientes.** Es decir, los sentimientos por cumplir una acción están implicados.
+
+**Ejemplo:**
+Si tu jefe te dice: You must finish the report by 10 am / Debes terminar el reporte a las 10 am.
+Tu jefe te está dando una obligación. Es una orden del hablante.
+
+**Have to:** se refiere a una **obligación externa, de algo que tienes que hacer y punto**. No hay sentimientos de por medio.
+
+**Ejemplo:**
+Si tú dices: I have to finish the report by 10 am / Debo terminar el reporte a las 10 am.
+Alguien más (que no es el orador) tomó la decisión de hacerlo.
+
+### Don’t have to y Mustn’t
+
+Las negaciones de have to / must son **Don’t have to** y **Mustn’t**, respectivamente. Las usamos cuando queremos expresar que alguien no puede hacer algo, o no tiene que hacer algo.
+
+- You **mustn’t** go to the park / No debes ir al parque.
+  Mustn’t: se le prohíbe ir, no puede ir. No está permitido ir.
+- You **don’t have to** go to the park / No tienes que ir al parque.
+  Don’t have to: no estás obligado a ir, es tu elección. No hay necesidad de ir.
+
+## Ejemplos usando have to y must
+
+- My mom said it’s my choice, so I don’t have to go if I don’t want / Mi madre dijo que es mi elección, así que no tengo que ir si no quiero.
+- I mustn’t drive. I’m only 14 / No debo conducir. Solo tengo 14 años.
+- I must have dinner before going out with my friends / Debo cenar antes de salir con mis amigos.
+
+[Hi, you can play a game in this page about Obligations and needs:)](https://wordwall.net/es/resource/15946442/must-mustnt-have-to-dont-have-to-neednt-can-cant)
+
+> ###### **Obligations and needs: have to / must**
+>
+> **Must** and **have to** both express obligation (a need). However, it makes a difference whether that need is **external or internal**.
+>
+> Let me explain with some examples.
+>
+> If the obligation is external (**meaning someone else gave the command**) you should use **have to**.
+>
+> For example:
+>
+> - **I have to finish my homework because my teacher told me to**.
+>
+> In this case, the speaker didn’t decide to do their homework because they wanted to, but because the teacher instructed it. This is an external obligation.
+>
+> Here’s another example:
+>
+> - **Dad said you have to eat all your vegetables.**
+>
+> In this example, the decision to eat vegetables is motivated by the external obligation given by dad. In both these examples, the need is motivated by outside pressure and consequences.
+>
+> On the other hand, if the obligation is internal (**meaning the speaker made the decision**) you can use **must**. For example:
+>
+> - **I must study so I pass the test.**
+> - **I must eat this because I want to be healthier.**
+>
+> .
+> As you can see, the speaker is self-motivated in these examples.
+
+## At the doctor's office
+
+A continuación, leamos al diálogo entre Cesar y su doctor. Al final, tendrás un par de preguntas de compresión para reforzar la lectura.
+
+## Dialogue—At the doctor’s office
+
+**Doctor**: Cesar? You can come in.
+
+*Cesar enters the doctor’s office*
+
+**Cesar**: Hi doctor.
+
+**Doctor**: Hello Cesar. Tell me, what brings you here today?
+
+**Cesar**: Well, I came here today because of the color of my eyes. Can you see how red they are?
+
+**Doctor**: I can see that. Since when have you noticed this?
+
+**Cesar**: Two days ago, they started itching a lot. And since then, I cannot go one minute without them itching. I guess there is an infection or something. And I thought to myself: I must see a doctor asap.
+
+**Doctor**: And you did well coming in today. But you shouldn’t touch your eyes, young man.
+
+**Cesar**: I know! But it’s difficult not wanting to do it.
+
+**Doctor**: I understand. I want to take a look at that. Come with me.
+
+*Doctor examines Cesar’s eyes*
+
+**Doctor**: Have you done something unusual lately?
+
+**Cesar**: I was on vacation until last weekend. I went on a cruise!
+
+**Doctor**: Did you go to the pool?
+
+**Cesar**: Yes, every day!
+
+**Doctor**: That must have been the problem. You have to be careful when you go to a pool with many people. It must be the chlorine in the water.
+
+**Cesar**: Ah! I didn’t think about that!
+
+**Doctor**: That’s okay, it’s nothing serious. I’ll prescribe you some medicine and everything will be fine in two days.
+
+**Cesar**: What kind of medicine?
+
+**Doctor**: You must use these drops for the next five days. Twice a day. And use a cotton swab with saline solution at least three times a day to clean
+your eyes if it starts itching.
+
+**Cesar**: Ok! So I would like to repeat and see if I understood. I have to use the drops for five days, twice a day, and also clean my eyes at least three times a day. That’s it?
+
+**Doctor**: Correct. And you should keep your hands as far away from your eyes as possible.
+
+**Cesar**: Thanks doctor!
+
+### Ejercicio de comprensión de lectura
+
+Con base en la lectura del diálogo, responde estas preguntas:
+
+1. Why does Cesar have red eyes? / ¿Por qué Cesar tiene los ojos rojos?
+2. What kind of medicine does he need, and how often must he use it? / ¿Qué tipo de medicina debía tomar? ¿Con qué frecuencia?
+
+------
+
+**Respuestas** (intenta resolverlo por tu cuenta antes de ver esta sección):
+
+1. He swam in a chlorinated pool.
+2. Some drops. He must use a cotton swab with saline solution. The drops, twice a day. The cotton, three times a day.
+
+> 1.- What was the reason, Why Cesar had his eyes red?
+>
+> > Water of pool has chlorine and it enter in Cesar’s eyes.
+>
+> 2.- What kind of medicine does he have to take?
+>
+> > Cotton swab with saline solution.
+>
+> 3.- How often?
+>
+> > For five days, twice a day.
+
+**Vocabulary**
+
+- Bring = Traer.
+- Itching = Comezón.
+- Asap = Lo antes posible.
+- Chlorine = Cloro.
+- Drops = Gotas.
+- Cottom Swab = Bastoncillo de algodon, isopo.
+- Saline Solution = Solución Salina.
+
+Questions:
+
+1. **What reason why Cesar had his eyes red?.**
+   The reason is Cesar wasn’t careful when he went to the pool with many people and because of the chlorine in the water, his eyes got an infection and produced him itching.
+2. **What kind of medicine does he have to take? And how often?.**
+   He has to use drops for the next five days. Twice a day. And he has to use a cotton swab with saline solution at least three times a day to clean his eyes if it starts itching.
+
+## What kind / sort of ...?
+
+*What kind* y *sort of* los usamos cuando hablamos sobre algo que tiene muchos tipos de variedades. Por ejemplo, hay muchos tipos de música, y muchas clases de aves.
+
+### What kind
+
+**What kind**: se utiliza para preguntar ¿Qué tipo…?
+
+**Por ejemplo:**
+
+- What **kind** of music do you like? / ¿Qué tipo de música le gusta?
+- What **kind** of bread is that? / ¿Qué tipo de pan es ese?
+- What **kind** of movies do you want to watch? / ¿Qué tipo de películas quieres ver?
+
+### What sort of
+
+**What sort of**: se emplea para preguntar ¿Qué clase de…?
+
+**Por ejemplo:**
+
+- What **sort** of food do you prefer to order? / ¿Qué tipo de comida prefieres pedir?
+- What **sort** of musical instruments do you play? / ¿Qué tipo de instrumentos musicales tocas?
+- What **sort** of bird is that? / ¿Qué tipo de pájaro es ese?
+
+### ¿Hay diferencia entre What kind y sort of?
+
+La respuesta es: no.
+
+**What kind y sort of son sinónimos** y los puedes usar de la misma manera. Prueba intercambiando estas palabras en las oraciones anteriores.
+
+> Let’s practice
+> 1- What kind of cheese do you like?
+> 2- What sort of dress is that?
+> 3- What kind/sort of movie do you prefer?
+> 4- What kind/sort of food is that?
+
+## Gerunds
+
+Una de las cosas más emocionantes de aprender clase a clase, es que siempre puedes poner en práctica los conceptos aprendidos anteriores con los nuevos.
+
+Ahora vamos a conocer una parte muy importante del idioma inglés: **¡los gerundios!**
+
+### ¿Qué son los gerundios?
+
+Un gerundio es la forma no personal del verbo que expresa duración de la acción verbal. **Indica que una acción se está realizando en el momento en que se dice la oración.** Un gerundio funciona como adverbio y como verbo.
+
+En español, los gerundios terminan en *ando* (nadando) y *endo* (bebiendo). En inglés, se construyen agregando la terminación ***ING\*** al verbo (swimm**ing**, drink**ing**).
+
+Una de las maneras de saber si estás usando los gerundios como objetos, es haciendo una pregunta con *what*.
+
+- I love what? I love **cooking** for my family.
+- She hates what? She hates **running** in that park.
+- They enjoy what? They enjoy **swimming** at the sea.
+
+#### Ejemplos de oraciones usando gerundios:
+
+- What does he enjoy doing on weekends?
+  He enjoys **watching** TV on weekends.
+- What does the boy hate doing in the afternoon?
+  He hates **sleeping** in the afternoon.
+- What do you enjoy eating when you go out?
+  I love **eating** hamburgers when I go out.
+- What do you enjoy doing on the weekends?
+  I enjoy **studying** marketing in Platzi.
+
+> What does he enjoy doing on weekends?
+> He enjoys watching TV on weekends.
+>
+> What does the boy hate doing in the afternoon?
+> He hates sleeping in the afternoon.
+>
+> What do you enjoy eating when you go out?
+> I love eating hamburgers and French fries when I go out.
+>
+> What do you enjoy doing on the weekends?
+> I enjoy studying the basic English course in Platzi.
+
+> - He enjoy watching TV on weekends
+> - The boy hates doing his homework in the afternoon
+> - I like eating hamburgers when I go out
+> - I love playing videogames on weekends and studying programation and English as well
+
+> - He enjoys watching movies
+> - The boy hates studying in the afternoon
+> - I enjoy eating burgers when I go out
+> - I enjoy getting out with my friends to eat something
